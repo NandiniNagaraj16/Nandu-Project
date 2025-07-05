@@ -1,2 +1,5 @@
 Sunday
 Monday
+tuesday
+wednesday
+thursday
